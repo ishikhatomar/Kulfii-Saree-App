@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "697265076875",
+    "project_id": "kulfii-db",
+    "storage_bucket": "kulfii-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697265076875:android:a1d1f023474fa297afb28e",
+        "android_client_info": {
+          "package_name": "com.shopping.kulfii_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697265076875-rul73d7ait356qa5k1jnlrj93uccdo03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shopping.kulfii_app",
+            "certificate_hash": "4a6d087582c6ddc8ea1da16fa06c66340df7eee1"
+          }
+        },
+        {
+          "client_id": "697265076875-ovj3ooh1mshbo6vg1m5314rmiie2ej2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDURFLKe1_zdZWy6Oo9Fo91P8hxNXVsaJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697265076875-ovj3ooh1mshbo6vg1m5314rmiie2ej2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

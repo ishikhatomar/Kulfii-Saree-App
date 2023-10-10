@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">697265076875-ovj3ooh1mshbo6vg1m5314rmiie2ej2k.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">697265076875</string>
+    <string name="google_api_key" translatable="false">AIzaSyDURFLKe1_zdZWy6Oo9Fo91P8hxNXVsaJM</string>
+    <string name="google_app_id" translatable="false">1:697265076875:android:a1d1f023474fa297afb28e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDURFLKe1_zdZWy6Oo9Fo91P8hxNXVsaJM</string>
+    <string name="google_storage_bucket" translatable="false">kulfii-db.appspot.com</string>
+    <string name="project_id" translatable="false">kulfii-db</string>
+</resources>
